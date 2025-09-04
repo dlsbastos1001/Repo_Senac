@@ -52,4 +52,3 @@ for i in range (len(idades)):
     print(f'{idades[i]} você é {teste}')
 
 #9
-
