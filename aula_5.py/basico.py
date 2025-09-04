@@ -41,7 +41,7 @@ for i in range (len(nomes)):
     contador += 1'''
 
 #8
-teste = 1
+'''teste = 1
 idades = [15, 19, 20, 21, 22]
 for i in range (len(idades)):
     teste = (idades[i])
@@ -50,5 +50,13 @@ for i in range (len(idades)):
     else:
         teste = ('menor de idade')
     print(f'{idades[i]} você é {teste}')
-
+'''
 #9
+nomes = []
+n1 =str(input('digite  primeiro nome:'))
+n2 =str(input('digite  primeiro nome:'))
+n3 =str(input('digite  primeiro nome:'))
+nomes.append(n1)
+nomes.append(n2)
+nomes.append(n3)
+print (nomes)
