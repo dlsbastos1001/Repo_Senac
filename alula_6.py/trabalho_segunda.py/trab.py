@@ -1,69 +1,71 @@
-'''LEVE: excesso de 105 ACIMA DO LIMITE PERMITIDO : 180.00R$
-MEDIA:  EXCESSO ENTRE 10% E 30% ACIMA DO LIMITE: 340.56R$
-GRAVE: EXCESSO ACIMA DE 30% DO LIMITE: 480.98R$'''
+'''O restaurante Kamado Tanjirō, especializado
+em culinária japonesa, está localizado na Av.
+Lúcio Costa, na Barra da Tijuca – RJ. Com um
+espaço de 100 m2, o restaurante oferece
+ambientes climatizados e área ao ar livre,
+atendendo a uma clientela exigente e
+crescente. Atualmente, a equipe conta com
+70 colaboradores, entre recepcionistas,
+garçons, cozinheiros e equipe administrativa.
+Com o aumento da demanda, a direção do restaurante decidiu automatizar
+o processo de atendimento, especialmente a realização de pedidos. Para
+isso, será desenvolvido um sistema simples que permita aos garçons:
+• Visualizar o cardápio digital.
+• Registrar os pedidos feitos pelos clientes.
+• Associar cada pedido à mesa e ao garçom responsável.
+• Gerar um número de pedido para que o cliente possa realizar o
+pagamento no caixa.
+Objetivo da atividade:
+Você deverá criar um programa em Python que simule esse sistema básico
+de pedidos. Para isso, será necessário implementar funções que
+representem as principais ações do restaurante.
 
-'''def multa(velocidade_via, velocidade_motorista):
-    velocidade_via = int(input('Digite a velocidade da via em KM/H: '))
-    velocidade_motorista = int(input('Digite a velocidade do motorista em KM/H: '))
+🔧Requisitos do sistema (funções que devem ser criadas):
+1. Função para exibir o cardápio
+Deve mostrar os pratos disponíveis, suas descrições e respectivos
+preços.
+2. Função para registrar um pedido
+Deve receber como parâmetros: número da mesa, nome do garçom e
+lista de itens escolhidos. A função deve calcular o valor total do
+pedido e gerar um número identificador.
+3. Função para fechar a conta
+Deve receber o número do pedido e exibir os detalhes: mesa, garçom,
+itens pedidos e valor total a ser pago.'''
 
-    if velocidade_motorista <= velocidade_via:
-        teste = velocidade_motorista - velocidade_via
-        if teste <= velocidade_via * 1.1:
-            print('Sem multa')
-        elif velocidade_via*1.1 <= teste <=  velocidade_via*1.3:
-            print('Multa LEVE: excesso de 105 ACIMA DO LIMITE PERMITIDO : 180.00R$')
-        elif velocidade_via*1.3 <= teste <= velocidade_via*1.5:
-            print('Multa MEDIA: EXCESSO ENTRE 10 e 30% ACIMA DO LIMITE: 340.56R$')
-        elif teste > velocidade_via*1.5:
-            print('Multa GRAVE: EXCESSO ACIMA DE 30% DO LIMITE: 480.98R$')'''
+pedidos = []
+cardapio = ['Sushi',
+'Udon',
+'Ramen',
+'Sashimi',
+'Soba',
+'Yakitori',
+'Tonkatsu',
+'Okonomiyaki', 
+'Tempura', 
+'Takoyaki', 
+'Katsudon', 
+'Unagi',
+'Onigiri',
+'Gyoza',
+'Chawanmushi',
+'Karaage',
+'Nikujaga',
+'Miso']
 
+def menu():
 
-#taxa metabolica basal
+    while True:
+        try:
+            pedido = str(input('digite um pedido: (ou out para sair) '))
+            if pedido in cardapio:
+                print(f'{pedido} foi adicionado aos seus pedidos')
+                pedidos.append(pedido)
+                pedido = None
+            elif pedido == 'out':
+                break
+            else:
+                print('esse item não está no cardapio')
+        except:
+            print('esse item não está no cardapio')
 
-'''def TMB(sexo, peso, altura, idade):
-    if sexo == 'M':
-        TMB = 66.5 + (13.75 * peso) + (5.003 * altura) - (6.755 * idade)
-        print(f'Sua taxa metabolica basal é de {TMB:.2f} Kcal')
-    else:
-        TMB = 655.1 + (9.56 * peso) + (1.850 * altura) - (4.676 * idade)
-        print(f'Sua taxa metabolica basal é de {TMB:.2f} Kcal')
-
-sexo = int(input('Digite 1 para masculino e 2 para feminino: '))
-peso = float(input('Digite seu peso em Kg: '))
-altura = float(input('Digite sua altura em cm: '))
-idade = int(input('Digite sua idade em anos: '))
-
-TMB(sexo, peso, altura, idade)'''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+pedido = str(input('qual é o seu pedido: '))
