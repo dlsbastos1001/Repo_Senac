@@ -54,8 +54,8 @@ for i in range (len(idades)):
 #9
 nomes = []
 n1 =str(input('digite  primeiro nome:'))
-n2 =str(input('digite  primeiro nome:'))
-n3 =str(input('digite  primeiro nome:'))
+n2 =str(input('digite  segundo nome:'))
+n3 =str(input('digite  terceiro nome:'))
 nomes.append(n1)
 nomes.append(n2)
 nomes.append(n3)
