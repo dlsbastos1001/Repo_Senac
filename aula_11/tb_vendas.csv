@@ -1,0 +1,201 @@
+﻿id_venda,data_venda,id_cliente,id_produto,quantidade,forma_pagamento,canal_venda
+1,2024-09-19,34,36,3,Cartão,Loja Física
+10,2025-03-14,32,44,1,Pix,App
+100,2024-11-09,54,13,1,Dinheiro,E-commerce
+101,2025-01-28,57,31,2,Dinheiro,Loja Física
+102,2025-09-19,31,2,4,Cartão,App
+103,2024-12-17,17,38,1,Cartão,E-commerce
+104,2025-04-24,20,32,4,Pix,Loja Física
+105,2025-03-02,66,8,4,Cartão,App
+106,2025-08-07,76,49,2,Dinheiro,Loja Física
+107,2025-05-20,55,41,4,Boleto,Loja Física
+108,2024-11-06,14,7,3,Dinheiro,Loja Física
+109,2025-03-01,77,18,4,Pix,App
+11,2025-02-01,10,27,5,Dinheiro,App
+110,2025-08-26,71,25,1,Pix,E-commerce
+111,2025-05-05,30,31,4,Pix,App
+112,2024-09-27,17,17,1,Cartão,Loja Física
+113,2024-12-29,23,20,3,Cartão,Loja Física
+114,2025-04-25,1,36,1,Cartão,App
+115,2025-05-30,38,48,2,Pix,Loja Física
+116,2025-04-10,44,48,3,Cartão,Loja Física
+117,2025-01-30,55,4,1,Pix,E-commerce
+118,2024-11-12,42,30,4,Cartão,App
+119,2025-04-20,55,38,5,Cartão,Loja Física
+12,2024-09-23,77,23,4,Boleto,E-commerce
+120,2024-12-23,45,45,3,Pix,App
+121,2025-04-19,62,45,1,Dinheiro,App
+122,2025-08-09,13,16,1,Dinheiro,App
+123,2025-02-10,29,2,1,Cartão,E-commerce
+124,2025-03-16,18,9,5,Cartão,Loja Física
+125,2025-05-15,79,47,4,Pix,App
+126,2025-03-08,74,48,4,Cartão,Loja Física
+127,2025-01-01,77,29,2,Boleto,E-commerce
+128,2025-02-21,68,30,5,Boleto,App
+129,2025-05-11,68,14,5,Pix,App
+13,2025-08-10,65,15,4,Dinheiro,App
+130,2025-02-21,1,50,3,Boleto,App
+131,2024-11-25,55,9,2,Dinheiro,Loja Física
+132,2025-08-07,68,18,5,Dinheiro,App
+133,2024-10-20,42,18,4,Dinheiro,App
+134,2025-05-10,77,23,3,Dinheiro,Loja Física
+135,2025-06-15,78,46,4,Boleto,App
+136,2025-06-02,58,15,2,Pix,E-commerce
+137,2024-12-22,18,11,5,Boleto,App
+138,2025-05-02,7,48,2,Pix,App
+139,2025-09-18,80,1,4,Pix,App
+14,2025-09-05,5,33,3,Boleto,App
+140,2025-07-17,40,46,5,Dinheiro,E-commerce
+141,2024-11-06,10,43,3,Pix,App
+142,2025-01-06,18,27,4,Boleto,Loja Física
+143,2025-05-15,11,28,3,Cartão,E-commerce
+144,2025-08-17,79,18,1,Boleto,E-commerce
+145,2025-04-03,14,25,2,Boleto,Loja Física
+146,2025-03-23,2,11,4,Boleto,Loja Física
+147,2024-12-10,31,36,4,Boleto,App
+148,2025-01-26,31,47,1,Cartão,E-commerce
+149,2025-04-05,5,7,4,Pix,E-commerce
+15,2025-01-06,16,25,3,Dinheiro,Loja Física
+150,2025-06-17,2,44,4,Boleto,App
+151,2024-11-03,17,39,3,Boleto,App
+152,2025-04-30,55,3,5,Pix,Loja Física
+153,2024-10-11,79,11,1,Boleto,Loja Física
+154,2024-10-31,17,6,3,Boleto,E-commerce
+155,2025-04-26,64,2,5,Dinheiro,Loja Física
+156,2025-02-17,68,1,5,Dinheiro,E-commerce
+157,2025-08-21,3,40,1,Cartão,App
+158,2024-12-25,72,37,4,Dinheiro,App
+159,2025-06-13,78,25,3,Dinheiro,E-commerce
+16,2024-10-07,77,30,3,Dinheiro,App
+160,2025-06-30,68,17,1,Pix,App
+161,2025-08-15,24,12,1,Dinheiro,E-commerce
+162,2025-03-18,47,31,2,Pix,App
+163,2025-01-03,32,24,4,Cartão,E-commerce
+164,2025-04-02,58,22,1,Dinheiro,E-commerce
+165,2025-07-11,50,27,5,Dinheiro,Loja Física
+166,2025-05-16,21,27,5,Boleto,Loja Física
+167,2025-03-19,53,18,1,Cartão,App
+168,2025-09-15,5,22,3,Cartão,Loja Física
+169,2024-12-14,39,2,2,Dinheiro,App
+17,2025-08-03,6,27,2,Boleto,App
+170,2025-05-25,80,21,1,Cartão,Loja Física
+171,2024-12-06,70,21,2,Cartão,App
+172,2025-03-22,45,9,5,Pix,E-commerce
+173,2025-04-26,78,44,1,Boleto,Loja Física
+174,2024-11-17,2,12,5,Boleto,App
+175,2025-06-15,18,2,5,Boleto,E-commerce
+176,2025-07-31,18,29,5,Pix,Loja Física
+177,2024-12-28,20,3,3,Dinheiro,App
+178,2025-07-10,21,23,1,Dinheiro,Loja Física
+179,2024-09-23,69,20,3,Boleto,E-commerce
+18,2024-11-14,52,14,3,Boleto,Loja Física
+180,2025-06-04,7,22,1,Pix,E-commerce
+181,2025-04-16,50,4,2,Dinheiro,E-commerce
+182,2025-04-22,61,50,4,Pix,App
+183,2025-07-01,31,22,5,Cartão,E-commerce
+184,2025-07-24,7,15,5,Cartão,E-commerce
+185,2025-05-08,80,43,5,Cartão,E-commerce
+186,2024-12-11,7,47,3,Dinheiro,Loja Física
+187,2025-02-03,5,10,4,Cartão,Loja Física
+188,2024-12-11,9,46,2,Pix,E-commerce
+189,2024-12-29,25,28,4,Dinheiro,Loja Física
+19,2025-07-17,12,18,1,Dinheiro,Loja Física
+190,2025-08-18,65,32,3,Dinheiro,E-commerce
+191,2025-07-24,69,16,5,Boleto,App
+192,2024-10-20,36,50,1,Cartão,E-commerce
+193,2024-12-17,16,33,2,Pix,App
+194,2025-04-04,6,18,1,Cartão,App
+195,2024-12-14,22,17,1,Dinheiro,App
+196,2024-11-04,22,38,2,Pix,E-commerce
+197,2025-06-20,24,37,3,Pix,App
+198,2025-02-08,45,32,2,Dinheiro,App
+199,2025-01-16,4,46,1,Pix,E-commerce
+2,2024-11-18,49,1,4,Boleto,App
+20,2024-10-11,45,21,5,Dinheiro,App
+200,2025-01-01,68,3,5,Cartão,E-commerce
+21,2025-08-22,78,18,4,Boleto,E-commerce
+22,2025-05-28,10,33,4,Dinheiro,Loja Física
+23,2025-05-26,22,32,2,Pix,App
+24,2025-03-20,46,29,4,Cartão,App
+25,2025-06-14,5,36,2,Dinheiro,Loja Física
+26,2024-11-11,10,14,5,Boleto,Loja Física
+27,2025-08-07,49,5,4,Cartão,E-commerce
+28,2025-06-19,1,17,5,Dinheiro,E-commerce
+29,2025-01-09,53,23,2,Pix,E-commerce
+3,2025-09-02,62,2,3,Pix,E-commerce
+30,2025-06-21,48,33,5,Cartão,Loja Física
+31,2025-05-31,73,25,1,Dinheiro,Loja Física
+32,2025-09-06,52,12,1,Cartão,App
+33,2025-09-01,59,25,4,Pix,E-commerce
+34,2024-12-12,27,9,4,Pix,Loja Física
+35,2024-10-10,56,40,2,Boleto,Loja Física
+36,2025-02-02,70,21,2,Pix,App
+37,2025-05-16,35,42,3,Cartão,E-commerce
+38,2025-08-02,74,23,5,Dinheiro,App
+39,2025-04-03,60,4,2,Cartão,Loja Física
+4,2024-12-02,29,19,1,Dinheiro,App
+40,2024-11-20,63,21,4,Pix,E-commerce
+41,2024-11-18,78,47,2,Dinheiro,Loja Física
+42,2025-02-24,33,25,4,Boleto,E-commerce
+43,2025-06-24,39,24,1,Dinheiro,App
+44,2024-11-24,22,1,1,Boleto,App
+45,2025-07-03,33,26,1,Pix,E-commerce
+46,2025-01-24,63,13,4,Cartão,Loja Física
+47,2024-11-06,68,3,3,Boleto,E-commerce
+48,2025-02-26,19,48,5,Dinheiro,E-commerce
+49,2024-12-24,1,6,1,Pix,App
+5,2025-09-10,77,35,4,Cartão,Loja Física
+50,2025-05-19,17,7,2,Dinheiro,E-commerce
+51,2025-05-26,30,7,4,Boleto,E-commerce
+52,2024-11-15,62,32,1,Pix,E-commerce
+53,2024-09-30,68,6,1,Pix,E-commerce
+54,2025-03-09,12,20,3,Boleto,Loja Física
+55,2025-07-11,51,22,3,Pix,Loja Física
+56,2025-06-19,36,9,1,Boleto,App
+57,2024-10-24,8,38,2,Dinheiro,Loja Física
+58,2025-08-14,16,31,2,Boleto,App
+59,2025-08-27,31,8,2,Boleto,App
+6,2025-05-05,32,26,4,Boleto,App
+60,2024-10-18,77,12,4,Pix,E-commerce
+61,2024-12-15,77,30,1,Dinheiro,Loja Física
+62,2025-07-31,33,34,1,Boleto,App
+63,2025-03-18,6,26,5,Cartão,Loja Física
+64,2024-10-24,74,11,4,Boleto,E-commerce
+65,2025-09-07,48,46,5,Boleto,E-commerce
+66,2025-02-15,14,22,4,Boleto,Loja Física
+67,2025-04-02,76,10,1,Boleto,E-commerce
+68,2025-09-13,45,27,4,Boleto,E-commerce
+69,2024-11-13,58,6,5,Dinheiro,App
+7,2025-05-12,1,1,5,Cartão,App
+70,2024-09-30,74,36,5,Dinheiro,App
+71,2024-09-19,75,33,1,Cartão,Loja Física
+72,2025-06-11,21,4,1,Boleto,E-commerce
+73,2025-07-21,58,45,2,Dinheiro,E-commerce
+74,2024-12-06,45,45,2,Boleto,E-commerce
+75,2025-05-24,53,49,4,Dinheiro,App
+76,2024-12-08,4,7,2,Cartão,Loja Física
+77,2025-05-18,59,41,5,Pix,Loja Física
+78,2024-10-04,68,37,1,Pix,App
+79,2025-01-17,56,31,3,Pix,Loja Física
+8,2025-03-08,57,40,2,Dinheiro,E-commerce
+80,2025-02-28,24,36,2,Dinheiro,E-commerce
+81,2024-12-09,15,31,4,Boleto,Loja Física
+82,2024-11-05,77,23,3,Cartão,App
+83,2025-06-09,9,2,1,Pix,App
+84,2024-12-21,39,35,3,Dinheiro,E-commerce
+85,2025-03-05,9,39,4,Boleto,Loja Física
+86,2025-06-03,47,12,5,Boleto,App
+87,2025-07-09,58,37,1,Cartão,App
+88,2025-07-21,31,27,5,Dinheiro,E-commerce
+89,2025-08-19,27,39,1,Dinheiro,E-commerce
+9,2025-06-13,18,14,1,Pix,E-commerce
+90,2025-06-05,31,1,3,Pix,Loja Física
+91,2025-07-18,28,6,1,Dinheiro,Loja Física
+92,2025-05-12,27,37,4,Dinheiro,Loja Física
+93,2025-07-11,59,46,1,Dinheiro,E-commerce
+94,2025-05-01,36,33,4,Dinheiro,E-commerce
+95,2025-01-19,23,29,2,Pix,Loja Física
+96,2025-08-24,75,14,3,Dinheiro,E-commerce
+97,2025-01-23,70,4,4,Dinheiro,Loja Física
+98,2025-07-19,60,36,5,Pix,E-commerce
+99,2025-03-04,68,8,4,Boleto,E-commerce

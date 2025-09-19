@@ -1,0 +1,101 @@
+﻿nome_cliente,data_nascimento,sexo,email,telefone,cidade,estado,data_cadastro
+Agatha Ribeiro,1953-04-29,Outro,maria-vitoriavargas@example.org,'+55 (021) 1004-7289,Manaus,AM,2025-01-30
+Alexandre Camargo,1961-11-01,Outro,britomaria-eduarda@example.org,11 0853-0886,Manaus,AM,2024-08-21
+Alexandre Silveira,1967-10-27,Masculino,lrios@example.net,'+55 51 0248 8906,Cuiabá,MT,2025-03-31
+Allana Ribeiro,1990-04-17,Outro,otto97@example.org,21 7962-7120,Manaus,AM,2022-09-23
+Ana Alves,1984-11-08,Feminino,nuneslucas-gabriel@example.com,'+55 71 1282-1577,São Paulo,SP,2023-02-18
+Ana Júlia da Mota,1961-10-30,Outro,aviana@example.net,'+55 84 5856 7246,Porto Velho,RO,2022-12-11
+Ana Laura da Paz,1992-09-19,Feminino,goncalvesana-carolina@example.net,'+55 (071) 4431 4734,Campo Grande,MS,2023-03-03
+Ana Laura Farias,1946-03-15,Outro,antoniofreitas@example.com,(081) 0175 2808,Salvador,BA,2023-10-02
+Ana Luiza Almeida,1991-05-14,Outro,gael-henrique21@example.org,(061) 5587 2220,Porto Alegre,RS,2025-01-11
+Ana Luiza Leão,1955-08-07,Feminino,isabelly24@example.org,0800-956-1485,Brasília,DF,2023-03-20
+André Nunes,1995-05-27,Outro,bianca79@example.com,'+55 (081) 5900 9513,Aracaju,SE,2024-10-06
+André Vasconcelos,1995-02-19,Outro,renanpires@example.com,'+55 (041) 1920 6577,Brasília,DF,2023-10-02
+Anna Liz Lopes,1993-12-10,Outro,apollo43@example.com,'+55 61 4178 9304,Maceió,AL,2023-10-17
+Antonella Cavalcanti,1947-12-22,Feminino,cvargas@example.net,(081) 4612-3619,Belo Horizonte,MG,2025-05-18
+Arthur Gabriel Sousa,1980-05-29,Masculino,emillyda-costa@example.net,'+55 41 3303-8468,Fortaleza,CE,2024-04-05
+Asafe Melo,1966-08-16,Feminino,xpinto@example.net,0500-330-3601,Palmas,TO,2022-11-16
+Bárbara Andrade,1988-06-14,Outro,da-matacecilia@example.com,41 8577-8719,Palmas,TO,2024-03-04
+Bella da Mota,1969-01-02,Outro,joaquimbarros@example.org,'+55 51 8633 5591,Boa Vista,RR,2025-08-24
+Brenda Castro,1974-03-07,Feminino,isadora86@example.com,(081) 8011-8148,Porto Velho,RO,2024-06-11
+Breno Pinto,1995-12-10,Outro,henrique97@example.com,'+55 (071) 1668-1440,Boa Vista,RR,2025-01-11
+Bruna Lima,1965-01-24,Masculino,ana-luizanovaes@example.org,31 9107-0878,Macapá,AP,2025-04-04
+Bruno Lima,2002-11-26,Outro,mazevedo@example.net,(031) 4378-4471,João Pessoa,PB,2024-03-21
+Caio Duarte,1944-09-28,Feminino,renan65@example.org,'+55 (061) 9108-3473,Rio Branco,AC,2022-12-22
+Carolina Macedo,1958-03-14,Outro,sophiegomes@example.org,'+55 11 3916-2941,Rio de Janeiro,RJ,2024-02-21
+Carolina Pimenta,1964-09-20,Masculino,emanuel70@example.net,81 4849 0461,Palmas,TO,2024-01-06
+Caroline da Luz,1974-12-12,Outro,gomeszoe@example.net,(051) 3242-1365,Rio Branco,AC,2022-12-10
+Cecília Oliveira,1977-09-19,Outro,ana-julia56@example.com,'+55 71 0321-8089,Teresina,PI,2023-10-02
+Clara das Neves,1954-08-15,Outro,lunacampos@example.org,(021) 8014-0970,Palmas,TO,2023-08-04
+Clarice Nunes,1954-11-07,Masculino,britoluiz-miguel@example.com,0900-908-4601,Palmas,TO,2022-12-24
+Davi Cavalcanti,1980-04-27,Feminino,davi-miguelrezende@example.com,'+55 51 9724 5250,Porto Velho,RO,2023-01-09
+Davi Lucca Silva,1953-01-16,Masculino,vitor-gabriel79@example.com,31 8181 1624,Fortaleza,CE,2023-12-20
+Diego Araújo,1981-06-19,Feminino,maria-julia68@example.net,51 5343 8329,Maceió,AL,2023-07-07
+Dom Pastor,1992-04-22,Outro,rael29@example.net,0900-818-2342,Porto Alegre,RS,2025-06-06
+Dom Porto,1993-02-24,Outro,aparecidamaya@example.net,71 3149-9818,Macapá,AP,2024-05-13
+Dr,1952-09-17,Outro,joao-vitor62@example.org,51 3100 0044,Maceió,AL,2025-06-14
+Dr,1992-08-10,Outro,psiqueira@example.org,0800 111 3043,Curitiba,PR,2025-03-23
+Dr,1995-09-16,Masculino,wda-mota@example.org,'+55 21 5146 1553,Aracaju,SE,2022-12-30
+Dra,1986-11-22,Feminino,da-cruzluiza@example.org,'+55 61 6176 3375,Belém,PA,2024-08-27
+Dra,2007-07-24,Masculino,varaujo@example.org,81 8958-5185,Brasília,DF,2024-03-11
+Eloah Pinto,1960-07-23,Feminino,ana-carolina33@example.com,'+55 (011) 9874-4226,Fortaleza,CE,2024-02-26
+Enrico Caldeira,1968-09-19,Feminino,csilva@example.org,(071) 5691 1604,São Luís,MA,2023-10-28
+Enzo Gabriel Porto,1973-12-22,Outro,qpinto@example.net,(021) 4380-7875,Rio de Janeiro,RJ,2023-01-19
+Erick Fogaça,2001-09-04,Masculino,isabelly48@example.com,(031) 4510-2227,Salvador,BA,2023-02-16
+Ester Duarte,1975-04-09,Outro,antony79@example.net,'+55 (031) 7795-2118,Porto Alegre,RS,2024-07-21
+Ester Nogueira,1979-02-18,Masculino,levibarros@example.net,(051) 4529 1941,Brasília,DF,2025-06-20
+Evelyn Lima,2003-12-23,Masculino,hduarte@example.org,(031) 1194-2906,Teresina,PI,2024-04-19
+Fernando Alves,1949-12-27,Masculino,emanuel70@example.com,11 6017-3641,Macapá,AP,2025-09-01
+Fernando Andrade,1952-07-30,Masculino,heloisa59@example.com,51 9393 1488,Campo Grande,MS,2025-01-01
+Gabriela Azevedo,1988-05-31,Outro,daniloda-mota@example.org,'+55 (081) 1788 4224,São Luís,MA,2023-02-06
+Gael Henrique Novaes,1994-08-02,Masculino,marcelocardoso@example.org,'+55 (031) 4313 3510,Porto Alegre,RS,2024-06-01
+Gael Siqueira,1952-10-28,Feminino,diego59@example.net,'+55 (041) 5003-0229,Manaus,AM,2024-01-17
+Guilherme da Paz,1951-02-24,Outro,vribeiro@example.org,'+55 (061) 8047-9567,Maceió,AL,2023-09-28
+Henry Casa Grande,1953-07-02,Outro,marina86@example.com,'+55 (011) 8928-8543,Porto Velho,RO,2023-05-24
+Igor Alves,1959-06-13,Feminino,ksampaio@example.org,21 5708 6166,Manaus,AM,2024-09-10
+Igor Vieira,1952-10-23,Feminino,rafaela10@example.com,'+55 (051) 3739 3615,Recife,PE,2023-06-11
+Isaac Pacheco,1956-04-09,Outro,brenda83@example.org,'+55 (081) 8086-0874,Fortaleza,CE,2022-12-25
+Isabelly Rios,1995-03-06,Outro,jporto@example.com,84 0353 2296,Natal,RN,2022-12-31
+João Felipe Porto,1954-04-18,Outro,laisgomes@example.com,'+55 31 9903 0067,Florianópolis,SC,2022-10-23
+Juan Albuquerque,1972-12-20,Masculino,heitorvieira@example.org,81 4984-5912,Aracaju,SE,2024-05-26
+Juan Cardoso,1972-01-15,Outro,tmendes@example.org,0300 509 8636,Boa Vista,RR,2025-01-17
+Kaique Campos,1946-04-13,Feminino,viniciusborges@example.org,(081) 0187 5488,Campo Grande,MS,2025-07-03
+Laís Andrade,1993-12-19,Feminino,jferreira@example.net,'+55 (051) 2586-3746,Porto Velho,RO,2023-02-27
+Laura Andrade,1977-12-21,Feminino,leocavalcante@example.net,'+55 51 1674 3701,Natal,RN,2024-06-22
+Leonardo da Rosa,1958-06-19,Outro,rpereira@example.com,(011) 9690-3478,Curitiba,PR,2025-05-23
+Lorenzo Ramos,1975-09-25,Masculino,heloisa78@example.com,(011) 7934-0533,Belo Horizonte,MG,2023-09-21
+Luana Pires,1984-04-15,Outro,vandrade@example.com,'+55 (051) 7896-2457,João Pessoa,PB,2023-07-31
+Lucas Teixeira,1992-04-19,Masculino,hbarbosa@example.net,'+55 (021) 1679 6717,Rio Branco,AC,2024-03-15
+Manuela Silveira,1993-01-23,Masculino,rfogaca@example.net,'+55 21 7856 7247,São Paulo,SP,2025-08-09
+Marcelo Montenegro,1991-08-25,Masculino,ygoncalves@example.net,84 3909 2808,Cuiabá,MT,2024-06-16
+Maria Fernanda Santos,1987-02-02,Feminino,caio64@example.com,(084) 8272-9581,Cuiabá,MT,2024-06-23
+Maria Flor Novais,1995-05-01,Feminino,amandada-costa@example.net,'+55 41 1082-0072,São Luís,MA,2023-06-15
+Miguel Souza,1969-05-19,Outro,ravypereira@example.net,'+55 41 6465 6116,Brasília,DF,2022-10-13
+Nicole Garcia,1949-01-20,Masculino,pcirino@example.net,'+55 (031) 5251 5089,Fortaleza,CE,2024-12-04
+Olivia Cassiano,1976-06-16,Outro,bsampaio@example.org,71 4049 0948,Salvador,BA,2023-02-10
+Pietra Fonseca,1971-03-17,Outro,peixotosofia@example.net,61 7882 5620,Salvador,BA,2025-05-26
+Pietra Jesus,1997-09-01,Outro,andrademaria-sophia@example.net,'+55 71 7086 3878,Teresina,PI,2023-10-01
+Pietra Oliveira,1945-03-17,Feminino,da-pazcaio@example.net,'+55 84 4834 7407,Belém,PA,2025-09-13
+Pietro Albuquerque,1950-06-30,Feminino,ayllabrito@example.net,'+55 (021) 1818-8206,Manaus,AM,2024-07-13
+Pietro da Cruz,1950-12-20,Masculino,juliacastro@example.com,(084) 3540-7374,Rio de Janeiro,RJ,2024-08-18
+Raul Barbosa,1985-01-17,Outro,mda-mata@example.org,'+55 (011) 5212 2400,Porto Alegre,RS,2023-06-26
+Raul Cunha,1970-03-11,Outro,wmarques@example.org,'+55 (031) 1992-9751,Belém,PA,2024-11-18
+Raul da Cruz,1986-11-01,Masculino,catarina53@example.net,'+55 (051) 3481 2071,São Paulo,SP,2024-09-06
+Ravi Gomes,2006-01-03,Masculino,maria-juliaribeiro@example.net,'+55 (011) 8285-3766,São Paulo,SP,2023-06-08
+Ravi Lucca Brito,1995-12-18,Masculino,da-costacecilia@example.org,'+55 (081) 3809-0160,Natal,RN,2024-03-04
+Rebeca Pastor,1950-09-25,Feminino,caiocorreia@example.net,(051) 9718-6822,Maceió,AL,2023-12-02
+Rebeca Pires,1982-11-27,Masculino,pedro-henriquedas-neves@example.net,'+55 71 4439 7522,Palmas,TO,2025-03-19
+Renan Pastor,1969-03-21,Outro,maria-helenarezende@example.org,'+55 81 1456-8193,Palmas,TO,2024-10-16
+Sophia Vargas,1988-03-25,Outro,pimentamaria-vitoria@example.org,'+55 31 4953 6319,São Paulo,SP,2022-11-20
+Srta,1955-09-14,Masculino,luiz-gustavo12@example.com,11 6505 0044,São Luís,MA,2023-08-26
+Srta,1957-06-02,Masculino,antonellajesus@example.com,'+55 (084) 4611-6588,São Paulo,SP,2024-04-17
+Srta,1961-05-14,Masculino,ida-luz@example.net,(021) 0922-8018,Brasília,DF,2024-12-31
+Srta,1965-01-02,Masculino,sfarias@example.org,(051) 7630 3048,Goiânia,GO,2025-03-26
+Srta,1989-05-24,Outro,vitorialopes@example.org,'+55 (051) 4254-7735,Boa Vista,RR,2023-10-01
+Srta,1999-12-26,Masculino,liviaalves@example.com,'+55 (061) 3495 6830,Belo Horizonte,MG,2024-01-08
+Théo Siqueira,1971-10-16,Feminino,pedrodias@example.net,(031) 1165 1992,Rio de Janeiro,RJ,2022-11-29
+Théo Souza,1964-10-04,Masculino,da-rosanatalia@example.com,'+55 (081) 6797 2683,Brasília,DF,2023-11-16
+Vinicius Jesus,1954-01-21,Feminino,snovaes@example.com,84 7233-1880,João Pessoa,PB,2023-03-18
+Vitor Duarte,1969-02-28,Feminino,garciaana-luiza@example.net,71 8024 0509,Porto Alegre,RS,2024-05-17
+Vitória Mendonça,1966-03-29,Feminino,joao-vitorguerra@example.org,'+55 41 8854 4820,Natal,RN,2022-10-24
+Yan Ramos,1993-07-26,Feminino,sousaana-laura@example.org,'+55 (041) 7404-4094,Campo Grande,MS,2025-05-22
