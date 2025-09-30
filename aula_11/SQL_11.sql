@@ -21,7 +21,14 @@ CREATE TABLE produtos(
     marca VARCHAR(100),
     preco_unitario DECIMAL (10,2));
     
-    SELECT * FROM produtos;
+LOAD DATA INFILE 'C:/Users/danilo.bastos/Documents/Repo_Senac/aula_11/tb_produtos.csv'
+INTO TABLE produtos
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS
+(nome_produto, categoria, subcategoria, marca, preco_unitario);
+    
+SELECT * FROM produtos;
     
     
 CREATE TABLE vendas(  
@@ -35,7 +42,7 @@ CREATE TABLE vendas(
     FOREIGN KEY (id_cliente) REFERENCES tb_clientes(id),
     FOREIGN KEY (id_cliente) REFERENCES tb_clientes(id));
     
-    SELECT * FROM  vendas;
+SELECT * FROM  vendas;
 
 SET GLOBAL local_infile = 1;
 
@@ -45,33 +52,156 @@ SET GLOBAL local_infile = 1;
 LOAD DATA INFILE 'C:/Users/danilo.bastos/Documents/Repo_Senac/aula_11/tb_clientes.csv'
 INTO TABLE tb_clientes
 FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\N'
+LINES TERMINATED BY '\n'
 IGNORE 1 ROWS
 (nome,data_nascimento,sexo,email,telefone,cidade,estado,cadastro);
     
-LOAD DATA INFILE 'C:/Users/danilo.bastos/Documents/Repo_Senac/aula_11/tb_produtos.csv'
-INTO TABLE produtos
-FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\N'
-IGNORE 1 ROWS
-(nome_produto,categoria,subcategoria,marca,preco_unitario);
+
 
 LOAD DATA INFILE 'C:/Users/danilo.bastos/Documents/Repo_Senac/aula_11/tb_vendas.csv'
 INTO TABLE vendas
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\N'
 IGNORE 1 ROWS
-(id_venda,data_venda,id_cliente,id_produto,quantidade,forma_pagamento,canal_venda);
+(id_venda, data_venda, id_cliente, id_produto, quantidade, forma_pagamento, canal_venda);
    
-drop table vendas; 
-    
+   
+   
+drop table vendas;
 drop table produtos; 
-
 drop table tb_clientes;
     
 
 select * from vendas;
-
 select * from produtos;
-
 select * from tb_clientes;
+
+
+
+
+##########################################################################################################################################################################################################################################
+SELECT quantidade, forma_pagamento
+FROM  vendas
+ORDER BY forma_pagamento DESC;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

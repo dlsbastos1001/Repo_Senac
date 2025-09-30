@@ -1,7 +1,5 @@
 CREATE DATABASE CARAMELO;
-git add . 
-git commit -m 'a11'
-git push origin main
+
 USE CARAMELO;
 
 CREATE TABLE venda(
